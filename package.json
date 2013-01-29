@@ -4,7 +4,7 @@
     "version" : "0.2.5",
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/substack/testling.git"
+        "url" : "git://github.com/widged/testling.git"
     },
     "main" : "index.js",
     "browserify" : "browser.js",
